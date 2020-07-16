@@ -1,4 +1,4 @@
-# Spotify-MVVM-MVI-Showcase
+# Spotify-MVVM-MVI-Project
 
 
 Kotlin app demonstrating my own MVVM/MVI architecture, scoped Dagger injection, authorization entry-point session management, Room-based persistence implementation, and a coroutine-based REST implementation with the official Spotify API.
